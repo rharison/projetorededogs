@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/projetorededogs/static/css/main.d3683cef.css",
+    "main.js": "/projetorededogs/static/js/main.ba869699.js",
+    "static/css/37.c1150d01.chunk.css": "/projetorededogs/static/css/37.c1150d01.chunk.css",
+    "static/js/37.ecd8a87d.chunk.js": "/projetorededogs/static/js/37.ecd8a87d.chunk.js",
+    "static/js/229.ff52c383.chunk.js": "/projetorededogs/static/js/229.ff52c383.chunk.js",
+    "static/media/login.jpg": "/projetorededogs/static/media/login.07d71f5b9d5714e556b0.jpg",
+    "static/media/enviar.svg": "/projetorededogs/static/media/enviar.1112bddc01e8891152fcdb0fd29cea57.svg",
+    "static/media/sair.svg": "/projetorededogs/static/media/sair.a1917210ebb96c5029ada5135bdb8847.svg",
+    "static/media/visualizacao-black.svg": "/projetorededogs/static/media/visualizacao-black.ee94fd3d144dfc2f335a.svg",
+    "static/media/visualizacao.svg": "/projetorededogs/static/media/visualizacao.09cd5578a66295798789.svg",
+    "index.html": "/projetorededogs/index.html",
+    "static/media/feed.svg": "/projetorededogs/static/media/feed.b8b13312eb97d7668cf865481902a8c3.svg",
+    "static/media/usuario.svg": "/projetorededogs/static/media/usuario.6d65a298e2fba2e83683.svg",
+    "static/media/dogs-footer.svg": "/projetorededogs/static/media/dogs-footer.9c77af3ac7f5061f1fe127298bb19eb3.svg",
+    "static/media/dogs.svg": "/projetorededogs/static/media/dogs.69bf6d229e8cb46f9023318d0802ee8f.svg",
+    "static/media/estatisticas.svg": "/projetorededogs/static/media/estatisticas.c69dd1e16d1f351b25eb7f01658f7c8e.svg",
+    "static/media/adicionar.svg": "/projetorededogs/static/media/adicionar.2fe277f9b2182f23c15f5afd7110067a.svg",
+    "main.d3683cef.css.map": "/projetorededogs/static/css/main.d3683cef.css.map",
+    "main.ba869699.js.map": "/projetorededogs/static/js/main.ba869699.js.map",
+    "37.c1150d01.chunk.css.map": "/projetorededogs/static/css/37.c1150d01.chunk.css.map",
+    "37.ecd8a87d.chunk.js.map": "/projetorededogs/static/js/37.ecd8a87d.chunk.js.map",
+    "229.ff52c383.chunk.js.map": "/projetorededogs/static/js/229.ff52c383.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3683cef.css",
+    "static/js/main.ba869699.js"
+  ]
+}
